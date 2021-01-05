@@ -1,7 +1,7 @@
-#Space Jump
+# Space Jump
 Game Space Jump ditujukan untuk memenuhi tugas akhir Grafika Komputer.
 
-##Development Team
+## Development Team
 <table>
   <th>
     Nama
@@ -35,21 +35,21 @@ Game Space Jump ditujukan untuk memenuhi tugas akhir Grafika Komputer.
   </tr>
 </table>
 
-##Story line
+## Story line
 Spacejump merupakan permainan dimana alien yang harus menghindari tarikan dari UFO asing diatasnya. Alien akan bergerak terus jatuh dan harus bertahan diri agar tidak terjun bebas ke bawah dengan menempatkan diri ke meteor yang sedang bergerak ke atas (tertarik UFO).
 
-##Gameplay
+## Gameplay
 Game ini bertujuan untuk membantu alien agar tidak terjun bebas ke bawah dengan mengarahkannya ke meteor yang sedang bergerak ke atas. Akan tetapi, tidak semua jenis meteor bisa ditempati. Ada jenis meteor yang memiliki daerah tajam di atasnya (spike) sehingga alien harus menghindari meteor tersebut. Setiap alien mendarat di meteor tertentu (standard dan breakable) akan menambah skor pemain.
 
-##Consept & Environtment
+## Consept & Environtment
 Game ini bertemakan luar angkasa dengan tidak memperhatikan tidak adanya gravitasi bumi di luar angkasa. Selama permainan berlangsung, pemain akan diiringi musik tertentu untuk menambah suasan. Adapula backsound ketika terjadi sentuhan antara alien dengan meteor. Terdapat 4 jenis platform yang digunakan, yakni standard platform, breakable paltform (meteor yang akan hancur dalam hitungan detik), spike (meteor yang memiliki duri di bagian atas), dan speed platform (meteor yang bergerak otomatis ke arah sesuai tanda panah). 
 
-##Action
+## Action
 - Pemain hanya bisa mengarahkan alien ke kiri atau ke kanan.
 - Alien akan selalu jatuh ke bawah (kecuali saat berada diatas meteor).
 - Skor akan bertambah ketika alien bersentuhan dengan standard platform atau breakable platform.
 
-##Teknologi yang digunakan
+## Teknologi yang digunakan
 <table>
   <th>
     Nama Software
@@ -73,3 +73,8 @@ Game ini bertemakan luar angkasa dengan tidak memperhatikan tidak adanya gravita
       Membuat tampilan game
     </td>
 </table>
+
+## Screenshot Game
+![Screenshot](Opening.png)
+![Screenshot](Preview.png)
+![Screenshot](Game over.png)
