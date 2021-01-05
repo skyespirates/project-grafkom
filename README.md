@@ -77,3 +77,4 @@ Game ini bertemakan luar angkasa dengan tidak memperhatikan tidak adanya gravita
 ## Screenshot Game
 ![Screenshot](Opening.png)
 ![Screenshot](Preview.png)
+![Screenshot](Gameover.png)
